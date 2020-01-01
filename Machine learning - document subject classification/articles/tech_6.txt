@@ -1,0 +1,62 @@
+1
+OnePlus 6T – features, specs, pricing, and everything you need to know
+October’s #phonepocalypse saw the launch of several new high profile phones, key among them was the OnePlus 6T. The much-anticipated OnePlus 6T brings several updates to what was already one of the best phones of 2018.
+
+Here’s everything you need to know about the OnePlus 6T.
+
+The OnePlus 6T display learns a few new tricks
+
+
+
+The OnePlus 6T didn’t go the Mi Mix 3 route, so there’s still a notch. The good news is it’s about 75 percent smaller, utilizing a design that’s known as a teardrop notch. Notch haters probably would rather see the notch gone completely, but this is a step in the right direction. It also allows OnePlus to cram in a larger 6.41-inch AMOLED display.
+
+The OnePlus 6T display holds another big change, an embedded fingerprint scanner.
+
+The rear fingerprint scanner has been removed and the new in-display scanner lets OnePlus return to putting fingerprint readers on the front of the phone. OnePlus claims this is the fastest in-display reader in the industry with an unlock time of about .34 seconds. Typically in-display scanners aren’t quite as fast as traditional fingerprint readers and it sounds like this will still be the case.
+
+While not quite as impressive as the first two changes, OnePlus has also improved the brightness on its displays for better viewing outdoors.
+
+Mostly the same under the hood, minus the headphone jack!
+OnePlus 6T Speakers
+
+Let’s get this one out of the way first: yes, the headphone jack is gone. OnePlus says this allowed them to increase the size of the resonance chamber on its internal speakers, as well as make room for a few other components without having to increase the phone size much. Whether you buy this argument or not is up to you. We’re not particularly happy to see the jack gone, but it’s a trend that’s becoming increasingly common and so not much of a surprise.
+
+The OnePlus 6T runs the same Qualcomm Snapdragon 845 chipset as the OnePlus 6 and — depending on the model — has 6GB or 8GB of RAM. OnePlus is ditching the 64GB storage size and will only offer the phone with 128GB or 256GB of internal storage.
+
+OnePlus has paired 3,300mAh batteries with its phones since the OnePlus 5, so it was overdue an upgrade here. The OnePlus 6T packs a 3,700mAh battery that should easily make it through a day or more. Our own David Imel has tested the phone for a few days and found that getting to eight hours of screen on time is easily possible. The OnePlus 6 already had been pretty decent battery life, but better battery performance is always welcome. The company’s fast-charging also makes a return here, allowing you to quickly top off your phone in the event you run a little low.
+
+Read more: OnePlus 6T specs
+
+The camera remains pretty much the same
+
+
+If you were hoping for major changes to the camera, no such luck. The OnePlus 6T offers 16 and 20MP f/1.7 sensors that perform very similarly to the OnePlus 6. The main 16MP shooter has OIS and EIS.
+
+The real change comes down to software. OnePlus is introducing improved HDR and portrait modes, a new studio lighting modes that recognize faces and adjust lighting to simulate professional lighting, and a new Nightscape Mode.
+
+The Nightscape feature is designed to provide improved clarity and less noise in low-light conditions. OnePlus also promises improved color reproduction and dynamic range. We can’t say how well this mode works just yet but judging by flagships with similar features, we’re hopeful.
+
+Android Pie and the latest OxygenOS out of the box
+
+
+The OnePlus 6 already had Android Pie via an update, but the OnePlus 6T features the latest OxygenOS updates as well. This includes improved navigation gestures and an updated Gaming mode with floating icons that make it easy to see your notifications at a glance.
+
+Probably the biggest update on the software side is the new Smart Boost mode. This feature stores app data in memory to improve cold boot times. This should translate to much faster app launch times, with OnePlus claiming you could see an improvement in the range of five to twenty percent — depending on the app.
+
+Coming to T-Mobile and will even support Verizon’s network!
+The OnePlus 6T is a T iteration, and that means we shouldn’t expect massive hardware and software improvements. Just refinement. This holds true for the OnePlus 6T but one thing that is getting a major upgrade is the way that OnePlus supports U.S. carriers!
+
+The OnePlus 6T 8GB and 128GB of storage variant will be sold in T-Mobile stores and available for all the expected T-Mobile financing options. This move is great because it means people finally have a way to try out the brand in a carrier store before taking the plunge.
+
+The OnePlus 6T is the first device from the company to support Verizon's network
+
+Probably even more significant, the OnePlus 6T is officially certified to work on Verizon Wireless. This marks the first time that OnePlus supports U.S. CDMA technology. While you will still have to buy it directly from OnePlus or T-Mobile, it’s nice to have the option to use the phone on Big Red’s network.
+
+It’s available today for a few, and very soon for the rest of us
+
+
+Although it was available to select few ahead of its formal retail debut, the OnePlus 6T widely launched to consumers in the US and other select markets  on November 1st. 
+
+The OnePlus 6T costs slightly more than the 6 for the base model (6GB RAM / 128GB storage) at $549, but keep in mind that gets you double the storage of the base OP6. OnePlus will also sell an 8/128GB and 8/256GB model for $579 and $629, respectively.
+
+Those that are planning to buy from T-Mobile will also have the opportunity to trade in any OnePlus device for $300, including older models like the OnePlus One or OnePlus X. That means you could get your hands on the OnePlus 6T for less than $300

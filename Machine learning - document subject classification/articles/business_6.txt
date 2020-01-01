@@ -1,0 +1,36 @@
+3
+What is a CTO?
+
+Technology has become intertwined with business, and a chief technology officer's primary role is to make sure tech strategy aligns with a company's overall goals. That doesn't always mean a CTO oversees the IT department or help desks. Instead they blend knowledge of existing and emerging technology to provide a business with the best solutions possible for the future.
+
+Matt Mead, CTO of Chicago-based digital consultancy company SPR, said the CTO role is an important part of company cohesion.
+
+"I think the CTO can be the glue between technology implementation and product strategy, and can sort of make things really come together and come to life in a way that you don't see in a lot of organizations today," he said. 
+
+A CTO must manage the company's current tech solutions, serve as the outward face of the company, be aware of new technology, and work with other executives on a budget for implementing new solutions and solving problems. In addition to these responsibilities, CTOs need to be thinking ahead about the company's direction, overall goals and how technology will factor into key business decisions.
+
+Not every company needs a CTO, but if you're running a nimble startup or a business that deals heavily with data and technology, a CTO can help provide guidance. Mead said some companies that aren't traditional technology companies but are "data hubs for an industry" may need a CTO to ensure the technology they want to establish is in line with business goals and isn't set up in a haphazard way.
+A CTO is not an IT director.
+
+An important distinction to keep in mind is that not all CTOs manage the IT side of a business. While some CTOs manage helpdesk professionals and make decisions about the tech tools companies use, many businesses are opting to devote this side of the business to a chief information officer. The CIO focuses distinctly on IT and ensures those issues are in line with company goals.
+
+"I think the CIO role is evolving as well, but I think the CIO role is more infrastructure, keeping the lights on, creating efficiencies from sort of an IT implementation and operations perspective," Mead said.
+
+The CTO is more product and strategy focused, according to Mead, whereas a CIO may be more focused on day-to-day operations. This means the CTO's focus is away from day-to-day tech issues and toward the bigger picture.
+CTOs are big-picture executives.
+
+One of the most important distinctions of the CTO role is that it's focused on the future. Mead said he's thinking sometimes three or even six months ahead of where the company is. This provides the company with direction, and it also means the CTO needs to constantly be aware of updates to existing technology. Mead said this can be a demanding task, with software like Microsoft Azure and Amazon Web Services experiencing constant changes and updates.
+
+"If I had to dumb down my role to one sentence it's to keep SPR relevant," he said. "What that means is we have to be No. 1 looking out on the horizon and keeping an eye on things that are coming – tools and techniques and technology, specifically."
+
+It also means the CTO needs to have a grip on emerging tech trends to move a business (or client) into the most successful position.
+
+"We have our annual plan and we break it down to the areas we sort of want to work on," he said. "I feel like I really, really understand well what it is we're trying to do organizationally, and so the strategies that I'm putting in place fit in to and are in alignment with our priorities as an organization."
+
+By handling direction and vision, the CTO can work closely with the CEO to make sure there's progress toward the company's ultimate goals. This means the CTO should be on a level playing field with the other chief executives, according to Mead. This allows company leadership to thrive on important issues like finance discussions and company direction.  
+A CTO is an outward-facing technology rep.
+
+One of the other important responsibilities of the CTO is to be the face of technology for the company. This means attending conferences to not only learn more about important technology news, but represent the company's technology initiatives within a certain market. Mead says he attends conferences and seminars, and speaks to the media to represent SPR's technology and business goals.
+Bottom line
+
+The CTO is a vital executive role focused on developing long-term technology goals, staying abreast on industry tech trends and working with other executives on a company's direction. While not every company needs a CTO, at the very least this role can provide an alignment between a product or service's strategy and a company's technology strategy. Oftentimes, CTOs are former developers and project managers.

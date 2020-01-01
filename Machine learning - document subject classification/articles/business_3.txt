@@ -1,0 +1,31 @@
+3
+Windows 10 Professional vs. Enterprise: What's Best for Business?
+
+Windows products are still the gold standard for most business users, but with so many versions of each product, it can be tough to make purchasing decisions, especially if you're a small business owner without extensive support staff. The two primary operating systems Windows business users should consider are Windows 10 Pro and Windows 10 Enterprise. Here's what these two options offer business users.    
+Windows 10 Pro
+
+Windows 10 Pro was built for professionals with limited or no tech support. What this means for users is that the security management is built for average business professionals and not experienced admins or security experts. The default security settings in Windows 10 Pro are suitable for most typical small businesses, and updates are relatively automated. In other words, if you don't want to mess around with security settings, you don't have to. All you need to do is run updates when prompted and you should be good to go.
+
+Windows Autopilot, a built-in feature of Windows 10 Pro, makes it easier for small businesses to deploy new devices to employees. Microsoft, or the hardware vendor you choose to work with, will register new devices for your organization. As the business owner, you can choose to customize the default setup by creating a profile that includes things like specific settings or apps. If you select the self-deploying mode, this only has to be completed one time. After that, every additional Autopilot-enabled device you purchase for your business will automatically be configured to your specifications, so there's no need for manual onboarding. New users can simply unpack their laptops or desktops and start working. Additionally, you can create different profiles for the same devices, which is ideal if multiple workers use the same computer, and users can also access their desktops remotely from offsite or non-work machines.
+
+The lightweight MDM also has an option called Windows Autopilot Reset, which allows users to remotely reset devices using Microsoft Intune. The remote reset defaults the machine to its original settings by removing all previous applications, settings and files. This can be useful for managing lost or stolen devices that may contain sensitive information.
+Windows 10 Enterprise
+
+While businesses of any size can use Windows 10 Enterprise, it was built primarily for large and midsize companies. Exceptions may include small businesses with intensive security needs and skilled in-house tech pros. Like Windows 10 Pro, Enterprise comes with Windows Autopilot, so you can keep your deployment simple. However, there's a lot more security under the hood, and if you don't intend on using it, there's no real reason to spring for Enterprise over Pro.
+
+These are some features unique to Windows 10 Enterprise:
+
+    Window Defender Credential Guard
+    Windows Defender Application Guard
+    Windows Defender Application Control
+    Windows Defender Advanced Threat Protection (ATP)
+    Desktop Analytics Device Health
+    Microsoft Application Virtualization (App-V)
+    Microsoft User Environment Virtualization (UE-V)
+
+This linked documentation should give you (or your IT staff) an idea of whether the features in Windows 10 Enterprise are necessary for your business. None of these are included in Windows 10 Pro. In general, Windows 10 Enterprise gives IT departments more freedom to manage security on their own terms. With these Enterprise features, your IT department can do things like remotely manage devices, deliver virtual desktops using Azure, control OS updates, manage apps, access security analytics through the Microsoft Intelligent Security Graph, identify and manage data breaches, create custom detection alerts, and pull reports.
+TL;DR: Just tell me what to buy
+
+If you are a small business owner or solo contractor with general security needs and little interest in hands-on security management, you should opt for Windows 10 Pro. In addition to Microsoft, well-known brands like Dell, HP, Lenovo, Panasonic, Toshiba and LG sell laptops that can be configured with Windows 10 Pro.
+
+If you own a midsize or large business with in-house tech support, you should defer to your IT team. If they tell you to opt for Windows 10 Enterprise, you should request a price quote from Microsoft. If you do not have any IT support to advise you, it is highly unlikely that you require Enterprise-level security. Instead, opt for a device with Windows 10 Pro and upgrade later if necessary.

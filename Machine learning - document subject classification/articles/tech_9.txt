@@ -1,0 +1,204 @@
+1
+Apple MacBook Air review
+Slimmer, lighter and better looking
+
+Apple’s MacBook Air (2018) isn’t a bold reimagining of its iconic original MacBook Air, arguably the first ever Ultrabook, but it brings enough new features and upgrades that make it the best entry-level MacBook with a Retina display that the Cupertino company has made.
+
+This year’s update includes updated hardware, a much-improved screen and a thinner and lighter design that makes it more easily portable – finally justifying the ‘Air’ moniker.
+
+Apple MacBook Air (2018) at Apple for $1499
+These welcome updates and new additions do come with a caveat, however: the MacBook Air (2018) is the most expensive MacBook Air to date. While the MacBook Air remains one of the more affordable ways to get a MacBook, do the new features justify the higher price tag?
+
+
+Price and availability
+This is the highest price for a MacBook Air in the history of the device, and while some people were hoping it would match the $999 price of previous MacBook Air models, it’s still the most affordable Apple laptop when bought new.
+
+For anyone who is dismayed at Apple’s high (and rising) prices for its devices, that might not be much comfort, with the MacBook Air (2018) starting at $1,119 (£1,119, AU$1,849).
+
+For that price, you get an 8th-generation Intel Core i5 processor, 8GB of memory and 128GB of SSD storage inside. This can be configured, but the price, of course, goes up from there if you upgrade things, like the memory and storage, which now max out at 16GB and 1.5TB, respectively.
+
+There is also a more expensive pre-configured MacBook Air for $1,399 (£1,399, AU$2,149) which comes with a 256GB SSD, but otherwise the same components. That’s a price increase of $200/£200/AU$300 for an extra 128GB of storage space. Even by Apple’s standards, that’s a rather ridiculous price. You’d be better off buying an external hard drive instead.
+
+
+
+If you want to configure the MacBook Air, you can double the RAM to 16GB at 2,133MHz for an extra $200/£180/AU$320.
+
+To up the storage to 512GB SSD it will cost you an extra $400/£400/AU$600 to upgrade from the base model, while upgrading to 1.5TB is an extra $1,200/£1,200/AU$1,800.
+
+No other components can be changed for 2018's Apple MacBook Air, which means you’re stuck with the disappointing choice of a 1.6GHz dual-core 8th-gen Intel Core i5 processor. It also highlights Apple’s crazy-expensive prices for storage. We’ve not tried to take the MacBook Air apart, but we’d wager it’s extremely difficult to open it up and install a larger (cheaper) SSD yourself.
+
+If you don’t need that much storage space, and rely on cloud services for most things, this won’t be too much of an issue. But, for people who need their disk space, it means the MacBook Air can quickly become quite an expensive proposition – unless, as we suggested earlier, you get an external hard drive.
+
+The market for premium $1,000/£1,000 laptops is now more competitive than ever, with some remarkable laptops now dominating that price point, mainly spurred on by the success of the original MacBook Air. With a price of $1,119 (£1,119, AU$1,849), the MacBook Air is competing with a number of excellent Windows laptops, such as the Dell XPS 13 and Huawei MateBook X Pro, which both offer more powerful components and gorgeous screens for similar prices. Where the MacBook Air used to be unquestionably the best laptop at this price point, it’s now got an uphill battle to reclaim that title. Sadly, with these specs, it’s not quite going to manage that.
+
+Of course, the XPS 13 and MateBook X Pro are only viable alternatives if you’re prepared to switch to Windows 10. If you’re wedded to macOS and Apple’s ecosystem, then the Apple MacBook Air (2018) offers the most affordable way to get a new MacBook. However, that doesn’t mean it offers the best value. 
+
+For around $100/£100 more, you can get the base model of the 13-inch MacBook Pro 2018 ($1,299/£1,249/AU$1,899), which comes with a brighter screen and more powerful components. For many people, that extra money will be well worth the outlay for a better-performing MacBook.
+
+
+
+Design
+When the first MacBook Air launched 10 years ago, the design made an incredible impact on the laptop market, as it proved you could have a powerful and feature-packed laptop in a thin and light design.
+
+One could successfully argue that the MacBook Air caused Intel and rival laptop makers to create the Ultrabook category of laptops, which were premium devices that put power, style and thin and light design above all else.
+
+With the original MacBook Air’s design having such a huge impact on the market, you may be hoping that, for its 10th anniversary, Apple would have created a similarly revolutionary design. If that’s the case, then you may be slightly disappointed by the design of the MacBook Air (2018), as Apple has played it relatively safe.
+
+While this means it’s not a market-defining laptop like its predecessor, it keeps that iconic thin and light design, while benefiting from some important improvements where it counts.
+
+So, the MacBook Air (2018) has been shrunk by 50% compared to the original, making an already thin and light laptop even more impressively svelte, with dimensions of 11.97 x 8.36 x 0.61 inches. There's still wedge-shaped design to this Air, so it tapers off to 0.16 inches at its thinnest point.
+
+As we noted in our initial hands-on review of the new MacBook Air, the new laptop has the same width and depth as the 13-inch MacBook Pro, while also proving to be a bit thinner and lighter.
+
+The reduced size and weight of the new MacBook Air doesn’t mean there’s been a cut to features to accommodate this. You still get a 13.3-inch screen (more on that in a bit), and it comes with boosted hardware which we mentioned earlier, including a 8th-generation, dual-core Intel Core i5 processor and 8GB of RAM, which can be upgraded to 16GB.
+
+
+
+Port-wise, you get two USB-C (Thunderbolt 3) ports along the left-hand side of the MacBook Air. You can use either one for charging, and we’re glad that Apple continues to use the USB-C format as a charging port, dropping its proprietary MagSafe port, making it a far more user-friendly and flexible device.
+
+One issue we were concerned with at first was the fact that both USB-C ports are along one side, and quite close together. It does mean that, when the Apple MacBook Air is plugged in to charge, the second USB-C port can be a bit too close to plug things in unless you have an adapter. Having a USB-C on either side, like the Dell XPS 13, would have avoided this situation, while giving you a bit more choice when it comes to charging.
+
+However, for most people this won’t be too much of a problem, and we’re glad to see Apple move over to USB-C for the latest MacBook Air. It helps keep the body of the Apple MacBook Air slim, while future-proofing the laptop by making it compatible with new and upcoming USB-C peripherals.
+
+If you rely on legacy USB peripherals, then you’re going to need a dongle or dock for them to work with the Apple MacBook Air (2018). Sure, that’s annoying, but you’ll probably find that you’ll soon need to do this with most modern laptops, especially premium thin-and-light Ultrabooks.
+
+The two USB-C ports are certainly a step up from the single USB-A port of previous MacBook Airs. Finally, along the right-hand side of the laptop you also have a 3.5mm headphone jack, which is an increasingly rare sight for Apple products.
+
+
+
+The Apple MacBook Air also has a redesigned keyboard that features Apple’s third-generation butterfly mechanism, which Apple claims provides four times more key stability than standard laptop keyboards, while offering greater comfort and responsiveness.
+
+In our time with the new Apple MacBook Air, we found that the keyboard does take a little bit of getting used to, especially if you’re coming from an older MacBook Air, but once your fingers adjust, it ends up being quite a pleasant typing experience.
+
+The keys are very shallow, travel-wise, so you don’t quite get the responsive feedback you get from other laptop keyboards, but that’s the price you pay for such a slimline design. There’s also a satisfying ‘click’ to the keys when pressed, however that does make it a bit more noisy to type on than previous versions.
+
+
+
+However, the mention of a ‘butterfly’ keyboard might worry anyone who has seen the spate of reports about how the butterfly keyboards on some MacBooks were encountering issues. Apple hasn’t revealed if it has made any tweaks to the butterfly switches of its keyboard to prevent future issues, and while it’s too early for reports of any Apple MacBook Air (2018) owners encountering the issue, it may give people pause.
+
+Time will tell if the much-maligned butterfly switches used in this keyboard suffer from similar issues as previous generations, but we hope Apple has addressed many of the complaints with this third generation.
+
+
+
+The MacBook Air also has Touch ID built in, allowing you to log into the laptop with your fingerprint. It’s a useful, time-saving, feature and genuinely makes logging into the MacBook Air (2018) quick and easy. As with other Mac devices with Touch ID, the feature works very well, detecting fingerprints and logging us in without any issues.
+
+While Touch ID is included, a Touch Bar – that slim display that runs along the keyboards of some MacBooks, offering contextual shortcuts for the apps you’re currently using – is not included. The lack of Touch Bar won’t be sorely missed, we feel, with function keys along the top of the keyboard being more than adequate for offering quick access to various tools.
+
+While the chassis surrounding it has shrunk, the Force Touch trackpad has actually grown, and is now 20% larger than the standard trackpad on previous MacBook Airs, offering more room for gestures and to move the cursor around. You won't want to go back to a smaller trackpad once you try it. Also, the trackpad, unlike in older MacBook Airs, is now flush with the body, and requires only gentle presses to register as clicks. It’s a much more comfortable, and quieter, experience.
+
+Using recycled aluminum makes this the greenest MacBook ever, according to Apple, and while its unibody design has been made from the metal shavings from previously machined devices (which means Apple does not need to mine and smelt further materials), there are no blemishes or marks. This is the same premium looking – and feeling – MacBook Air we’re used to, just greener. Apple told us that it has achieved this through full-time, in-house metallurgists to help ensure that the creation of the recycled aluminum body is up to Apple’s rigorous design standards.
+
+The MacBook Air (2018) unibody shell is cut from a solid block of aluminum, which gives it a very sturdy feel despite its thin design. It’s an impressive machine to hold and, along with the reduced size and weight, the new MacBook Air really does feel impressively light to carry around while being robust enough that you can easily chuck it in a backpack and take it with you when you’re out and about.
+
+
+
+The speakers have also been improved, and despite their small size, the speakers have twice the bass of the previous model’s, and are capable of 25% louder volume. The T2 security chip, which is built into the MacBook Air and offers a number of security features, also helps with stereo spacing on the speakers. The idea is that this gives the impression of the two speakers being further apart than they actually are. We tried it out with some films, and there is a clear distinction when sounds pan from left to right, but it doesn’t rival a proper sound setup with stereo speakers placed at far ends of the room.
+
+However, the sound is clear, with a very good range and they still sound really good at high volumes. These are speakers that put out impressive sound quality that is rare on slim and light laptops. This improved audio, combined with the updated and improved high resolution screen, makes the MacBook Aira brilliant laptop for watching films and listening to music on.
+
+A 720p FaceTime HD camera and three-microphone array helps to make video and voice calls look and sound good as well, although the resolution is increasingly looking outdated compared to rival laptops that feature 1080p webcams.
+
+
+
+Apple is also offering a range of colors for the MacBook Air: Space Gray, Gold and traditional Silver. However, it drops the illuminated Apple logo in lieu of one in chrome – the thinner lid design doesn't accommodate that classic piece of design flair.
+
+Overall, while the design isn’t as revolutionary as the original MacBook Air, Apple has gone to some impressive lengths to improve on the look and feel of the new MacBook Air.
+
+
+
+Display
+The screen of the Apple MacBook Air (2018) is where Apple has arguably made the biggest – and most welcome – changes. Despite the overall size of the new Apple MacBook Air shrinking compared to previous models, the screen size remains the same at 13.3 inches.
+
+This was achieved by slimming down the bezels around the screen, and not only does it mean that the new Apple MacBook Air is smaller and more easily portable than its predecessors, it also means the screen itself is more prominent when in use.
+
+The screen also keeps the 16:10 aspect ratio, but that’s where the similarity with previous MacBook Air screen ends. 
+
+The Apple MacBook Air (2018) is the first Air to come with a Retina display, with a resolution of 2,560 x 1,600 pixels. This results in a pixel density of 227 pixels per inch (ppi), which is a little sharper than the MateBook X Pro, and easily outclasses the entry-level XPS 13.
+
+The new Retina screen grants the MacBook Air four times the resolution of previous MacBook Air models. The leap from the 900p resolution of older MacBook Air laptops to the Retina resolution really is impressive, and it’s likely the first thing you’ll notice when you open up and power on the MacBook Air. Anyone who felt the lower resolution of previous MacBook Air models was a bit cramped when working will really appreciate the boost to resolution.
+
+It actually puts the screen of the MacBook Air in line with the more expensive MacBook Pro, which also features the same screen size and resolution on the 13-inch model. However, the MacBook Air does not include True Tone technology, which is designed to adjust the colors of the screen to show more accurately depending on the ambient light you’re using the device in. The MacBook Air’s screen doesn’t go quite as bright as the MacBook Pro, either.
+
+Apple has also dramatically improved the viewing angles of the new screen for this year’s MacBook Air. That's been one of the biggest pain points using old MacBook Air laptops, to the point where tilting the screen a little bit away from our faces made the screen pretty much impossible to view. The 2018 MacBook Air fixes that. 
+
+It was only at the most extreme angles that we saw a lot of reflection from the anti-glare glass that's protecting the LCD screen. There’s also been a boost to color accuracy for the MacBook Air (2018), with a wider color gamut that is capable of displaying 48% more colors than the previous MacBook Air. It means photos in particular look bright and vibrant on the new MacBook Air’s screen.
+
+The new MacBook Air display is arguably the most impressive update, and the higher resolution gives this entry-level MacBook a premium feel, while also making media and photos look better than ever
+
+BENCHMARKS
+Here’s how the MacBook Air (2018) performed in our suite of benchmark tests:
+
+Cinebench CPU: 279 points; Graphics: 35.13 fps
+Geekbench 4 Single-Core: 4,247; Multi-Core: 7,832
+TechRadar Battery Life Test: 10 hours and 30 minutes 
+
+When the original MacBook Air launched back in 2008, it won plenty of plaudits for its slim and light design, however many reviewers voiced their reservations over the less-than-impressive performance of the device compared to other (larger, yet less expensive) laptops. Many suggested that the slim design of the MacBook Air necessitated less powerful components, which Apple did address in later revisions.
+
+Apple MacBook Air (2018) at Apple for $1499
+We’d love to say that, 10 years later, things have changed, but alas.
+
+While the MacBook Air comes with 8GB of 2,133MHz LPDDR3 RAM, which can be configured to 16GB, and a speedy solid state drive, processing power still feels slightly hobbled, with a dual-core Intel Core i5-8210Y processor.
+
+This 1.6GHz, dual-core Intel Core i5 can Turbo Boost up to 3.6GHz, with 4MB L3 cache, and while that’s fine for most day-to-day tasks, it’s not as speedy as some quad-core processors you see in rival laptops around this price point, such as the Dell XPS 13. For strenuous tasks, or running multiple apps at once, the Apple MacBook Air (2018) isn’t as strong a performer as other laptops at this price range.
+
+RECOMMENDED VIDEOS FOR YOU...
+CLOSE
+
+
+Also, it’s worth repeating that the more powerful 13-inch MacBook Pro is not a huge amount more expensive, but offers more powerful components. If you want a MacBook to do some heavy lifting, then we’d recommend going for the Pro.
+
+The new Apple MacBook Air comes with macOS 10.14 Mojave pre-installed, and this generally copes pretty well with the lower spec of the Air (with Apple’s operating system being tailor-made for the hardware, rather than the Windows 10 ‘one size fits all’ approach, which makes it more power hungry).
+
+However, it’s not quite as snappy as we’re used to on more powerful Macs. Occasionally, the MacBook Air felt like it was lagging behind, taking a few seconds more to load apps and respond to instructions while we were using it, especially when we had quite a few apps open at once.
+
+While the choice of a low-powered dual core Intel Core i5 processor is a bit disappointing, the MacBook Air does have a new trick up its sleeve to help mitigate this by including the Apple T2 security chip, which works alongside the main processor and offloads certain tasks.
+
+This is mainly to do (as the name suggests) with security features, so it manages your fingerprints when using Touch ID, as well as an SSD controller with on-the-fly data encryption for "industry-leading security." It also helps with the stereo spacing effects of the speakers, which we mentioned earlier, as well as having an always-on ‘Hey Siri’ feature – a first for a MacBook Air that allows you to use your voice to control the laptop.
+
+
+
+The T2 chip also specialises in HEVC video transcoding, which offers transcoding times up to 30 times faster than devices without it. While the MacBook Air isn’t a laptop we (or Apple) would recommend for professional heavy-duty video editing and transcoding, it’s a welcome feature to have for people who may want to dabble in editing home videos. By taking some of these tasks from the Intel processor, it gives that CPU more breathing room to keep other tasks running as smoothly as possible.
+
+In our day-to-day tests, we found the MacBook Air (2018)’s performance to be a bit of a mixed bag, with the device doing a fine – if not seriously impressive – job of most tasks we asked of it, but struggling a bit when asked to do lots of tasks at once.
+
+Our benchmark results also show that the hardware of the MacBook Airis lacking compared to its competitors. Pitting it against the older 12-inch MacBook, the Cinebench benchmarks show roughly the same results, at 264 points compared to 279 for the MacBook Air (2018). The Geekbench 4 scores show a similarly slight improvement with the 12-inch MacBook’s scoring 3,879 single core and 7,072 multi-core, compared to the MacBook Air (2018)’s 4,247 and 7,832 respectively. Again, these are not huge leaps for the newer MacBook Air.
+
+Compare these results to the MacBook Pro (2018) 13-inch with Touch Bar, with a 2.7GHz Intel Core i7-8559U quad-core processor and 16GB of RAM, the results are more stark, with 669 points for Cinebench and Geekbench 4 scores of 5,320 for single-core and 18,135 for multi-core.
+
+This is a clear advantage to the MacBook Pro, though it’s worth noting these results are for a model that costs $1,799 (£1,749, AU$2,699), which is a fair bit more expensive than the MacBook Air (2018).
+
+Benchmark results only tell part of the story, but these at least give us an idea of where the MacBook Air (2018) sits in the MacBook hierarchy: more powerful than the 2017 12-inch MacBook by a hair, but a fair bit less powerful than the MacBook Pro.
+
+We should also mention that during our review, Apple released a supplemental update for its macOS 10.14.1 operating system specifically for the MacBook Air (2018), designed to improve the stability and reliability of the new laptop.
+
+When we initially set up the MacBook Air, it did become unresponsive whilst connecting to a Wi-Fi network, though once we rebooted the device it didn’t crash again. We’ve installed the update and so far we have encountered no further problems.
+
+We also re-ran our benchmarks with the update installed and saw small improvements for every score. The new scores with the update installed are the ones you see in this review.
+
+
+
+Battery life
+Apple rates the Apple MacBook Air (2018) as capable of 12 hours of local video playback or 12 hours of wireless web use, which is a pretty decent amount that should see you through a whole work day without requiring a charge.
+
+The high-resolution Retina display does cause the battery life to drain slightly faster than previous models, though Apple’s decision to go with a lower-power, dual-core processor means the Apple MacBook Air (2018) has one of the longest lasting batteries found in a MacBook.
+
+Every other Retina MacBook is rated for 10 hours of battery life, according to Apple's own estimates, so if you’re an Apple fan that places long lasting battery above all other considerations, then the Apple MacBook Air (2018) is the one to go for.
+
+In our own battery life tests, where we ran a looped 1080p video with the screen set to 50% brightness, the MacBook Air lasted 10 hours and 30 minutes. Not quite the 12 hours Apple managed in its own tests, but it’s still a very good amount, and much longer than the 12-inch MacBook’s 8 hours and 4 minutes.
+
+During our day-to-day use we found that the MacBook Air did a good job of keeping hold of its battery while we browsed the web, watched movies and used various apps. However, it does seem to charge quite slowly, taking a few hours to fully charge from completely empty.
+
+
+
+Verdict
+The latest MacBook Air is either going to delight or disappoint you, depending on what you’re after in a laptop. It’s undeniably a great bit of kit that’s nicely put together (as we’ve come to expect from Apple), but it won’t be for everyone.
+
+Apple’s MacBook Air line of laptops has a huge and committed following, and if you’re a fan of Apple’s lightweight laptop, then you will love the MacBook Air (2018). It improves on a number of key areas - especially the stunning new screen - as well as being lighter and smaller than ever before.
+
+If you have a MacBook Air that's a few years old now, then this update should make you happy.
+
+However, if you’re hoping for a substantially more powerful device compared to previous models - or laptops in the same price range - then you’re going to be disappointed. A laptop in 2018 with a dual-core processor running at 1.6GHz isn’t going to set the world on fire, especially at this price point, where rival machines are running faster processors with more cores. 
+
+Also, if you want more storage, you’re going to be paying a premium, unless you use an external hard drive. Oh, and don’t think about using a microSD to boost storage - this year’s MacBook Air doesn’t support it.
+
+In the end, the MacBook Air isn’t likely to make many converts for people thinking of switching from Windows to Mac. However, for the committed fanbase who have been waiting for a new MacBook Air, they’ll find the lightest and most powerful Air ever made. And for many people, that will be more than enough.

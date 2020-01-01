@@ -1,0 +1,22 @@
+Running n-queens with n = 10
+Successful
+_ _ _ _ _ Q _ _ _ _  
+_ _ Q _ _ _ _ _ _ _  
+_ _ _ _ Q _ _ _ _ _  
+_ Q _ _ _ _ _ _ _ _  
+_ _ _ _ _ _ _ Q _ _  
+_ _ _ _ _ _ _ _ _ Q  
+_ _ _ _ _ _ Q _ _ _  
+_ _ _ Q _ _ _ _ _ _  
+Q _ _ _ _ _ _ _ _ _  
+_ _ _ _ _ _ _ _ Q _  
+The queen in column 1 is placed in row 9
+The queen in column 2 is placed in row 4
+The queen in column 3 is placed in row 2
+The queen in column 4 is placed in row 8
+The queen in column 5 is placed in row 3
+The queen in column 6 is placed in row 1
+The queen in column 7 is placed in row 7
+The queen in column 8 is placed in row 5
+The queen in column 9 is placed in row 10
+The queen in column 10 is placed in row 6

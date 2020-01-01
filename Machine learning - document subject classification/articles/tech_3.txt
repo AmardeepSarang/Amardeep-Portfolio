@@ -1,0 +1,117 @@
+1
+Razer Phone 2 full review
+When Razer unveiled the first Razer Phone it pretty much invented the concept of the gaming phone. People had played games on phones for years of course, but the idea of designing a phone specifically with gamers in mind was a novelty not seen since the days of the Nokia N-Gage.
+
+Since then, imitators have come along from the likes of Xiaomi, Asus, and Honor, but Razer is ready to meet the challenge with the newly announced Razer Phone 2.
+
+We’ve spent a bit of time gaming on the second-gen Razer Phone, and here’s what we think. Check out our comparison with the original Razer Phone if you want to know more about exactly what's changed.
+
+Razer Phone 2: Price & availability
+The Razer Phone 2 has only just been announced, and is expected to release in the UK, US, and Europe on 26 October. You can pre-order it now from Razer, and in the UK Three has confirmed that it will once again be stocking the handset.
+
+When it launches it will cost £779/$799/€849 - a bit of a jump from the already expensive original model, which cost £699/$699/€749 when it launched in late 2017. However, even at launch it was possible to find that phone for less than full price by buying from someone other than Razer, so we’re hoping the same will be true this time around.
+
+It’s also worth noting that Razer is simultaneously releasing a wireless charging dock designed specifically for the new Razer Phone, but it’s pretty pricey at £99/$99/€109.
+
+Razer Phone 2: Design & build
+The first thing you’re likely to notice about the Razer Phone 2 is that it looks very similar to the original model
+
+
+
+From front-on, the phones are almost identical, and you’ll have to really squint to spot the differences: the front-facing camera placement is slightly different, the corners are (ever so) slightly rounder, the body is fractionally thicker. What you can’t see is that it’s also now IP67 water-resistant - even with those big front-facing speakers.
+
+Other than that, this is much the same as last year: a 5.7in 16:9 display flanked by thick top and bottom bezels sporting large stereo speakers, all in an angular rectangular design. Once again the fingerprint sensor is built into the flat power button midway down one side, with the volume buttons midway down the other - both optimised for holding the phone landscape while gaming.
+
+It’s when you flip the phone over that you see what’s really changed. Most obviously, the matt back has been replaced by glossy black glass (which in turn enables wireless charging). Made out of Gorilla Glass 5, this should be sturdy enough (at least by glass standards), though as with all glass phones it attracts plenty of fingerprints.
+
+The rear camera lenses have also moved - they now protrude slightly more and sit in the centre, above the large Razer logo. More excitingly, the logo itself has changed: it now features Razer’s Chroma lighting tech in case you worried that last year’s model wasn’t glowy enough.
+
+
+
+You use the included Chroma app to control the lighting, which can sit on a static colour or cycle through 16.8 million different shades, or flash in various different patterns. You also get a few battery-conserving options - you can keep the light on at all times, only when the screen is on, or just have it flash when you get a notification.
+
+At the end of the day, this is a Razer Phone 1 with a glass back and a flashy logo, so you’ll probably know already if that appeals to you or not. Razer’s blocky design is definitely less sleek than most flagship rivals, but it has its fans, and it’s all in the name of improving the handheld gaming experience.
+
+Razer Phone 2: Specs & features
+So the outside of the new device is basically Razer Phone 1.5 - what about the innards? Well, it’s a similar story: small changes and refinements to make the new handset just a little bit better than what came before.
+
+Screen
+That’s arguably most obvious in the screen. This was arguably the headline feature of the first phone, thanks largely to the industry-leading 120Hz refresh rate.
+
+Razer has chosen not to change much this time around: it’s the same size (5.7in), the same resolution (2560 x 1440, a.k.a. Quad HD), and the same refresh rate (120Hz). It's also stuck with the 16:9 aspect ratio, which might seem an odd choice in a market increasingly dominated by 18:9 bezel-less displays, but the company argues the extra screen space is a boon for games, which are still for the most part optimised for 16:9 screens.
+
+What’s changed is the brightness. Razer claims the new screen is 50 percent brighter, maxing out at a whopping 645cd/m2 - which if true would make this brighter than any phone we’ve ever tested. We’ll be testing this in the coming days, so check back soon for our results.
+
+In person, it’s hard to spot the difference in quality between the first- and second-gen smartphones. This is clearly a small tweak to a screen that’s mostly unchanged - but since the original boasts arguably the best smartphone display out there, that’s no bad thing.
+
+Processor, memory & storage
+Internal specs haven’t had a major shift either. The processor has had the expected upgrade from the Snapdragon 835 to this year’s flagship 845 chip to keep pace with other top phones. It also now features Vapor Chamber Cooling - a lot of fancy words to say that it should stay cooler even at peak performance – though we have noticed that the phone does still get noticeably hot in use.
+
+As with the previous model, you get 8GB of RAM and 64GB of storage, together with a microSD card slot - though this will accept cards up to 2TB, giving you plenty of room to expand.
+
+As to be expected, the Razer Phone 2 is rapid both in general use and when gaming, especially with the display clocked up to 120Hz. That’s backed up by a Geekbench 4 multi-core score of 8955, blowing the Xiaomi Black Shark’s  7173 out of the water.
+
+It’s not clear-cut though; the Razer Phone 2 boasts impressive GFXBench results in T-Rex at 90fps, but when it came to the high-intensity Car Chase test, Razer’s new model managed only 22fps compared to 31fps by Xiaomi’s offering.
+
+This can be down to several factors, including the fact that Razer’s smartphone offers a much higher resolution and has to power more pixels. In reality, though, it’s highly unlikely that you’ll notice any lag when gaming on the Razer Phone 2, even with graphically-intense games like PUBG Mobile.  
+
+
+
+Connectivity & audio
+Just like before, the only port here is USB-C, used for charging, audio, and data transfer - though Razer includes a 3.5mm headphone adapter in the box. As mentioned before, you'll also once again find an impressively fast fingerprint scanner built into the power button on the side of the phone.
+
+
+In terms of wireless, there’s the usual Wi-Fi and Gigabit LTE (now up to 1.2Gbps), along with Bluetooth 5.0 and NFC.
+
+Finally, those giant speakers flanking the screen have been tweaked too: Razer says they’re now louder and clearer. After playing a few games of PUBG and getting that coveted chicken dinner, we can confirm: they are loud and clear.
+
+It really is a superior audio experience, and most importantly, you don’t need to worry about your hands covering the speakers during gameplay like with the side-speaker of Xiaomi’s Black Shark.
+
+Cameras
+There is at least one area of the phone that’s had a major revamp: the cameras. Arguably the weakest element of the original phone, Razer has taken the criticism to heart and worked to bring itself into line with its rivals.
+
+First up, the front-facing camera has had a video upgrade to 1080@60fps, with an 8MP f/2.0 lens, which will be welcome news to streamers and vloggers looking to share footage of themselves on the go without compromising on quality.
+
+
+
+There’s a noticeable jump in quality compared to the original Razer Phone, offering crisp, well-lit selfies and a range of shooting modes – including a Portrait mode – despite offering a single-camera setup.
+
+Meanwhile the rear cameras - now packing new Sony IMX sensors - can capture 4K@60fps, or shoot 1080p in 120fps slow motion. Both rear lenses are 12MP, one f/1.75 wide-angle with optical image stabilisation, and the other f/2.6 telephoto.
+
+
+As with the front-facing camera, there is a noticeable jump in quality compared to the original Razer Phone. Colours are more true-to-life, the autofocus is faster and more accurate and images generally look great. The below snap of an 11/10 doggo is a great example of the kind of images you can expect from this year’s offering.
+
+
+The improved aperture on the rear lens means that it’s better at handling low-light environments. It doesn’t have a dedicated Night mode like other high-end smartphones,  and it certainly won’t replace the need for a flash, but it does a good job of capturing light and detail.
+
+Zooming in will reveal a slightly aggressive noise cancellation algorithm at play, but that’s something that found with most smartphones.
+
+Battery life
+Apologies if this is starting to sound familiar, but the battery on the Razer Phone 2 is similar to before, but a bit better.
+
+There’s the same generous 4,000mAh battery, though software and processor optimisations mean it lasts slightly longer than before. It’ll get you through a day comfortably with a mix of social media and gaming, though those that use the smartphone more conservatively could squeeze a day and a half out of a single charge.
+
+The introduction of wireless charging is a benefit, enabling you to casually charge the phone throughout the day when not in use.
+
+The big question mark here is the Chroma logo: it’s hard to estimate right now just what sort of impact this will have on battery, especially given the range of available settings for colour, brightness, and how often it activates. We’d guess that if you want that logo lit up permanently, you’ll pay for it in battery, but there are too many factors to say for sure just yet.
+
+We’re running a series of battery tests at the moment, and will update with results in the coming days.
+
+
+Razer is also selling its own wireless charging dock for the new phone, which can prop it up in landscape, portrait, or flat. This even boasts its own Chroma lighting effects: cycling colours when the phone is charging, static green when the battery is full, and a sort of angry flashing red when it detects that the phone isn’t positioned correctly for charging.
+
+That’s all well and good, but remember two big caveats here: it’s expensive at £99, and the lighting will only ever be a nuisance if you tend to charge your phone overnight by your bed.
+
+Razer Phone 2: Software and apps
+The Razer Phone 2 ships with Android 8.1, though the more recent Android 9 will apparently roll out to owners before too long.
+
+Once again Razer is running a version of the OS that’s pretty much stock, the main tweak being the use of the Nova Launcher - a version of the home screen and app drawer that’s highly customisable, so you can tweak things to suit your tastes.
+
+
+
+The Razer Theme Store also makes a return for more decorative options, and is joined by a mobile version of Razer Cortex, the company’s combined performance optimiser and app storefront. The big sell here is that it includes game recommendations generated by the Razer team, providing a much easier way to find great new Android games than Google’s own Play Store.
+
+Razer Phone 2: Verdict
+The Razer Phone 2 is far from a reinvention, and if you weren’t a fan of the original this is unlikely to convince you otherwise. Instead, Razer has doubled down on its idiosyncratic design choices and backed it up with flagship features like waterproofing and wireless charging - along with a few novelty LEDs.
+
+If you want a gaming phone that feels like a flagship and don’t mind paying for it, there’s still really no alternative. But if you’re looking for pure performance, you can get that for less by skipping a few of the bells and whistles packed in here.

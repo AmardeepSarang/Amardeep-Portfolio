@@ -1,0 +1,132 @@
+1
+Razer Phone 2 review: Going against the grain
+Positives
+Super build quality
+Fast 120hz display
+Great for gaming
+RGB logo is a nice touch
+Loud dual speakers
+Good battery life
+IP67
+Wireless charging
+
+Negatives
+No headphone jack
+Poor camera performance
+Recessed power button is not good
+
+Bottom Line
+Phone 2
+by Razer
+Priced at $799, the Razer Phone 2 is one of the few high-end flagships you can buy this year at the sub-$1,000 price point. It improves on the original Razer Phone by adding IP certification, wireless charging, and is still fantastic for gaming. It's an excellent flagship choice as long as your main priority isn't the camera.
+
+
+The original Razer Phone brought us one of the first “gaming phone” experiences. It had the highest refresh rate of any smartphone display, crazy high-end specifications, and impressive dual front stereo speakers. It also wasn’t without its faults. The display was dim and the camera didn’t fair well against the competition. The Razer Phone 2 aims to fix these problems, with a host of improvements and new features.
+
+Find out how much has changed in our Razer Phone 2 review.
+
+Design
+Razer Phone 2 Review
+
+
+The phone has great build quality and exudes a premium feel but it's thick, heavy, and isn't the most comfortable phone to hold.
+
+With the exception of the glass back, the Razer Phone 2’s design hasn’t changed much from the original Razer Phone. The rest of the body is made from metal, just like last year’s model, and it retains the familiar sharp, boxy, rectangular aesthetic. In a sea of smartphones with curvy lines, rounded corners, and thin designs, the Razer Phone 2 offers a stark contrast. The Razer Phone 2’s approach in design is much more industrial, and it may not be to everyone’s taste. I prefer phones with sleeker designs and the Razer Phone 2 just doesn’t appeal to me. The phone has great build quality and exudes a premium feel, but it’s thick, heavy, and isn’t the most comfortable phone to hold.
+
+Razer Phone 2 Review
+
+ALSO READ
+Google Pixel 3 and Pixel 3 XL review: The Android iPhone
+The switch to a glass back means the phone is now more prone to fingerprints, but this was done more for function than form. The glass back lets the Razer Phone 2 support wireless charging. Fingerprints and smudges are a small price to pay for charging the Razer Phone 2 wirelessly. This year, Razer also added IP67 dust and water resistance, which was notably missing last year. The addition of these two features was a smart move on Razer’s part to keep its flagship competitive, as wireless charging and water resistance have become staple features on most high-end smartphones.
+
+Razer Phone 2 Review
+
+The other major change to the Razer Phone 2’s design is Razer’s three-headed snake logo on the rear panel now glows with RGB lighting. It’s a cool touch and makes this phone feel even more like a gaming device. The logo can be customized through Razer’s Chroma app, where you can pick any color you want, set the logo to be static or breathing, or have it set to cycle through the whole spectrum of colors. It doesn’t have much utility, but it can be a rear facing notification light. Razer also provides options for keeping the logo lit up at all times or only when the screen is awake to conserve battery.
+
+Razer Phone 2 Review
+
+Button and port placement are just like last year. Volume up and down buttons are on the left side and the power button is on the opposing side. A single USB Type-C port is on the bottom. Unfortunately there’s still no headphone jack, though the phone is thick enough to house one. The power button integrates a fingerprint sensor which I personally am a fan of and more OEMs should take this approach to fingerprint sensors. The only downside to this power button is how flush it is to the body of the phone. This makes it very hard to find by feel and becomes somewhat of an annoyance when you simply want to wake the device while it’s sitting on a table or desk.
+
+RELATED ARTICLES
+A transparent Razer Phone 2 is coming
+It’s 2018 and USB Type-C is still a mess
+Display
+Razer Phone 2 Review
+
+Razer has bumped up the screen's brightness over last year's display which has drastically improved its outdoor visibility.
+
+The screen of the Razer Phone 2 remains mostly identical to the first Razer Phone. Instead of going with current smartphone display trends like notches and taller aspect ratios, the Razer Phone 2 has a more traditional display. It’s a 5.7-inch LCD display with a 16:9 aspect ratio and a 2,560 x 1,440 resolution. The screen is colorful, with good contrast and black levels for an LCD. Razer also bumped up the screen’s brightness over last year’s display, drastically improving its outdoor visibility.
+
+The primary purpose of the 120Hz display is for a smoother and more immersive gaming experience but it even makes swiping and scrolling through Android much more enjoyable.
+
+The main attraction to the display is the 120Hz refresh rate. The higher refresh rate makes everything look smoother and more fluid, letting you see more frames just like a high refresh rate monitor on a gaming PC. The primary purpose of the 120Hz display is for a smoother and more immersive gaming experience, but it even makes swiping and scrolling through Android much more enjoyable. If you’re a mobile gamer, you can reap the full benefits of the 120Hz display with supported game titles that run at 120 frames per second. These are available through Razer’s Cortex app. The number of supported titles is limited, but there is still a sizeable selection of games spanning multiple genres.
+
+Related: Here are all the 120Hz-enabled games you can play on the Razer Phone 2
+
+Performance
+Razer Phone 2 Review
+
+The Razer Phone 2 takes mobile gaming to new heights and you won't get a gaming experience like this on any other smartphone.
+
+Performance on the Razer Phone 2 didn’t disappoint. The phone is fast, fluid, and responsive in average daily use, and runs all sorts of graphically demanding games extremely well — just as it was intended to do. As with many other high-end 2018 flagships, the Razer Phone 2 has a Snapdragon 845 and just like the original Razer Phone, it has a healthy amount of RAM at 8GB. Playing games on the Razer Phone 2 is a ton of fun, especially with 120fps-supported games such as Unkilled and Tekken. The Razer Phone 2 takes mobile gaming to new heights and you won’t get a gaming experience like this on any other smartphone.
+
+To improve performance Razer added a vapor chamber cooling system to more evenly dissipate heat and reduce thermal throttling. The phone still gets warm during long gaming sessions, but never to the point where it felt alarming or affected gaming performance, so it appears the cooling system is working as advertised.
+
+
+
+The Razer Phone 2 performs equally as well when it comes to battery life. Its hefty 4,000mAh battery provides plenty of juice to comfortably get me through a full day. Screen-on time consistently ranged anywhere between five to six hours and I usually ended the day with around 15 to 20 percent left in the tank. Even with several hours of gaming and YouTube watching per day, the phone went the distance without needing to recharge midway through the day. This was also with the display running at 120Hz full time and having the Razer logo light up when the screen is on. You can no doubt squeeze more life out of the battery by turning down the refresh rate and keeping the Razer logo turned off.
+
+
+
+
+
+
+Hardware
+Razer Phone 2 Review
+
+Considering most people interested in the Razer Phone 2 will be buying it for its gaming capabilities, the phone should have been offered in higher storage capacities.
+
+Where the Razer Phone 2 falls short on the spec sheet is storage. The Razer Phone 2 supports expandable storage via microSD, but only comes with 64GB internally. While 64GB is usually more than enough for my needs, it’s a skimpy amount of storage if you plan on downloading a lot of high-end games. Considering most people interested in the Razer Phone 2 will be buying it for gaming, the phone should have offered higher storage capacities.
+
+Razer Phone 2 Review
+
+The Razer Phone 2’s most impressive piece of hardware is its dual front-firing speakers. Large speaker grills sit above and below the display and produce exceptional sound quality. The speakers are loud, crisp, and clear. The sound is very evenly balanced, with a good amount of both bass and treble. These speakers sound much better than the Pixel 3’s dual speakers which produced a very flat sound and didn’t sound nearly as loud during our testing.
+
+Camera
+Razer Phone 2 Review
+
+The camera on last year’s Razer Phone was a disappointment, and although Razer tried to improve things on the Razer Phone 2, the results are still underwhelming. Just like the first Razer Phone, the Razer Phone 2 is equipped with two 12MP cameras on the rear. One has a standard lens and the other provides 2x optical zoom. Razer’s improved the main sensor by adding optical image stabilization and a pixel size of 1.4 microns. The front-facing camera is 8MP and now supports 1080p video at 60fps.
+
+Razer Phone 2 Review
+
+This all sounds great on paper, but the image quality doesn’t live up to the specifications. Maybe I’ve just been spoiled by the Pixel 3’s camera and my expectations are way too high, but photos from the Razer Phone 2 are not impressive.
+
+Related: Razer Phone 2 vs Asus ROG Phone, Xiaomi Black Shark, Honor Play
+
+Colors aren’t very vibrant, details don’t always appear sharp, and the dynamic range is on the weak side. The Razer Phone 2’s camera struggles with capturing any sort of detail in highlights and shadows even with HDR auto. This is even more apparent in low light. Photos from the main camera of the Razer Phone 2 also exhibit a very odd green color cast, which makes the colors look unnatural and unattractive.
+
+
+
+Portrait mode on the Razer Phone 2 is not very convincing. It’s one of the more artificial looking portrait modes I’ve seen in awhile. The separation between foreground and background looks sloppy, resulting in weird halo effects around the subject. Portrait mode is especially bad on the front-facing camera and also suffers from a severe lack of dynamic range. If you’re taking portrait mode photos in the sun you won’t see any detail.
+
+
+
+We’ve included a sample gallery down below but if you want to see the uncompressed originals, just click here.
+
+Gallery
+
+
+Software
+Razer Phone 2 Review
+
+There isn’t much to say about the software on the Razer Phone 2. It’s basically a stock build of Android 8.1 Oreo, with a handful of customizations from Razer. The UI has been themed with Razer’s green, black, and gray color scheme, as have many default apps like the clock and calculator. The phone uses the Nova Launcher by default, just like the original Razer phone. Nova Launcher is like Google’s Pixel launcher, but offers more customization. Razer offers its own customization options as well — its theme store has a bunch of game-related themes. These downloadable themes come with custom wallpapers, icon packs, notification sounds, and much more.
+
+The biggest downside to the Razer Phone 2’s software is it doesn’t come with Android 9 Pie. Considering how new this phone is, having it ship with Android Oreo is a little disappointing. Hopefully, Razer will be quick to update, but releasing it with Android Pie out of the box could have given the Razer Phone 2 a considerable advantage over the competition.
+
+
+Pricing & Final Thoughts
+Razer Phone 2 Review
+
+The Razer Phone 2 costs $799.99. For a high-end flagship with an emphasis on mobile gaming, this phone is extremely competitive. This is one of the year’s few high-end smartphones that doesn’t hit the thousand dollar mark, and that alone might be enough to attract a few eyeballs.
+
+Overall, the Razer Phone 2 is a solid product. It performs well, it’s amazing for gaming, and additions like water resistance and wireless charging make this a better smartphone over the original Razer Phone. The RGB logo is fun, even if it doesn’t do much aside from just look cool. The changes aren’t significant enough to warrant an upgrade from the original Razer Phone, but if you’re looking for a powerful smartphone with a notch-less screen for under a thousand dollars, the Razer Phone 2 is worth the look.

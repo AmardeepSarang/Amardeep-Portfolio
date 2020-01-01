@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    height: 100vh;
+}
+
+canvas{
+    display: block;
+}
+
+h2 {
+    
+    color: blue;
+    font: 2em Arial;
+
+}
+
+p {
+    
+    color: white;
+    font: 0.8em Arial;
+
+}

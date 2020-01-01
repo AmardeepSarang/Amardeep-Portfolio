@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<!--
+-------------------------------
+Name: Amardeep Sarang
+ID: 160112080
+Email: sara2080@mylaurier.ca
+-------------------------------
+-->
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>The Solar system by Amardeep Sarang</title>
+		<style>
+			body { margin: 0; }
+			canvas { width: 100%; height: 100% }
+		</style>
+		<link rel="stylesheet" href="css/main.css">
+
+	</head>
+	<body>
+		
+		<script src="three.js"></script>
+		<script src="dat.gui.min.js"></script>
+		
+		<div id="mercury" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Mercury</h2>
+			<p>Mercury is the smallest planet in our solar system. It’s just a little bigger than Earth’s moon. It is the closest planet to the sun, but it’s actually not the hottest. Venus is hotter.</p>
+			<p>Along with Venus, Earth, and Mars, Mercury is one of the rocky planets. It has a solid surface that is covered with craters. It has a thin atmosphere, and it doesn’t have any moons. Mercury likes to keep things simple.</p>
+			<p>This small planet spins around slowly compared to Earth, so one day lasts a long time. Mercury takes 59 Earth days to make one full rotation. A year on Mercury goes by fast. Because it’s the closest planet to the sun, it doesn’t take very long to go all the way around. It completes one revolution around the sun in just 88 Earth days. If you lived on Mercury, you’d have a birthday every three months!</p>
+			<p>A day on Mercury is not like a day here on Earth. For us, the sun rises and sets each and every day. Because Mercury has a slow spin and short year, it takes a long time for the sun to rise and set there. Mercury only has one sunrise every 180 Earth days! Isn't that weird? <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+
+		</div>
+
+		<div id="venus" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Venus</h2>
+			<p>Even though Venus isn't the closest planet to the sun, it is still the hottest. It has a thick atmosphere full of the greenhouse gas carbon dioxide and clouds made of sulfuric acid. The gas traps heat and keeps Venus toasty warm. In fact, it's so hot on Venus, metals like lead would be puddles of melted liquid.</p>
+			<p>Venus looks like a very active planet. It has mountains and volcanoes. Venus is similar in size to Earth. Earth is just a little bit bigger.</p>
+			<p>Venus is unusual because it spins the opposite direction of Earth and most other planets. And its rotation is very slow. It takes about 243 Earth days to spin around just once. Because it's so close to the sun, a year goes by fast. It takes 225 Earth days for Venus to go all the way around the sun. That means that a day on Venus is a little longer than a year on Venus.</p>
+			<p>Since the day and year lengths are similar, one day on Venus is not like a day on Earth. Here, the sun rises and sets once each day. But on Venus, the sun rises every 117 Earth days. That means the sun rises two times during each year on Venus, even though it is still the same day on Venus! And because Venus rotates backwards, the sun rises in the west and sets in the east. <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+
+		</div>
+
+		<div id="earth" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Earth</h2>
+			<p>Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface.</p>
+			<p>Our atmosphere is made mostly of nitrogen and has plenty of oxygen for us to breathe. The atmosphere also protects us from incoming meteoroids, most of which break up in our atmosphere before they can strike the surface as meteorites.</p>
+			<p>Since we live here, you might think we know all there is to know about Earth. Not at all, actually! We have a lot we can learn about our home planet. Right now, there are many satellites orbiting Earth taking pictures and measurements. This is how we can learn more about weather, oceans, soil, climate change, and many other important topics.  <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+			
+		</div>
+		
+		<div id="mars" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Mars</h2>
+			<p>Mars is a cold desert world. It is half the size of Earth. Mars is sometimes called the Red Planet. It's red because of rusty iron in the ground.</p>
+			<p>Like Earth, Mars has seasons, polar ice caps, volcanoes, canyons, and weather. It has a very thin atmosphere made of carbon dioxide, nitrogen, and argon.</p>
+			<p>There are signs of ancient floods on Mars, but now water mostly exists in icy dirt and thin clouds. On some Martian hillsides, there is evidence of liquid salty water in the ground.</p>
+			<p>Scientists want to know if Mars may have had living things in the past. They also want to know if Mars could support life now or in the future.  <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+			
+		</div>
+		
+		<div id="jupiter" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Jupiter</h2>
+			<p>Jupiter is the biggest planet in our solar system. It's similar to a star, but it never got big enough to start burning. It is covered in swirling cloud stripes. It has big storms like the Great Red Spot, which has been going for hundreds of years. Jupiter is a gas giant and doesn't have a solid surface, but it may have a solid inner core about the size of Earth. Jupiter also has rings, but they're too faint to see very well.  <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+			
+		</div>
+		
+		<div id="saturn" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Saturn</h2>
+			<p>Saturn isn’t the only planet to have rings, but it definitely has the most beautiful ones. The rings we see are made of groups of tiny ringlets that surround Saturn. They’re made of chunks of ice and rock. Like Jupiter, Saturn is mostly a ball of hydrogen and helium.</p>
+			<p>When Galileo Galilei saw Saturn through a telescope in the 1600s, he wasn't sure what he was seeing. At first he thought he was looking at three planets, or a planet with handles. Now we know those "handles" turned out to be the rings of Saturn.  <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+			
+		</div>
+		
+		<div id="uranus" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Uranus</h2>
+			<p>Uranus is made of water, methane, and ammonia fluids above a small rocky center. Its atmosphere is made of hydrogen and helium like Jupiter and Saturn, but it also has methane. The methane makes Uranus blue.</p>
+			<p>Uranus also has faint rings. The inner rings are narrow and dark. The outer rings are brightly colored and easier to see. Like Venus, Uranus rotates in the opposite direction as most other planets. And unlike any other planet, Uranus rotates on its side  <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+			
+		</div>
+
+		<div id="neptune" style="background-color:transparent; color:white; position: absolute; top: 2em;
+		left: 2em; max-width: 200px;">
+			<h2>All About Neptune</h2>
+			<p>Neptune is dark, cold, and very windy. It's the last of the planets in our solar system. It's more than 30 times as far from the sun as Earth is. Neptune is very similar to Uranus. It's made of a thick fog of water, ammonia, and methane over an Earth-sized solid center. Its atmosphere is made of hydrogen, helium, and methane. The methane gives Neptune the same blue color as Uranus. Neptune has six rings, but they're very hard to see.  <a href="https://spaceplace.nasa.gov/">Learn more at NASA Spaceplace</a></p>
+			
+		</div>
+
+		<script>
+			//gui
+			var FizzyText = function() {
+			// Sets up inital values for the sliders
+			this.Time_speed = 1;
+			this.Distance_scale = 0.5;
+			this.Move_speed = 10;
+			this.Ambient_light = 0.7;
+			this.Orbit_toggle = true;
+			this.View = 8;
+			}
+			var text = new FizzyText();
+			var gui = new dat.GUI();
+
+			//setup gui elementd
+			var speed = gui.add(text, 'Time_speed', 0, 2000);
+			var dist = gui.add(text, 'Distance_scale', 0.3, 1);
+			var movSpeed = gui.add(text, 'Move_speed', 5, 500);
+			var lightValue = gui.add(text, 'Ambient_light', 0.1, 1.5);
+			var orbitValue = gui.add(text, 'Orbit_toggle', );
+			var veiwer = gui.add(text,"View",{Mercury: 0, Venus: 1, Earth: 2, Mars: 3, Jupiter: 4, Saturn: 5, Uranus: 6, Neptune: 7, Solar_system: 8})
+
+			var speed_scale = 1;
+			var dist_scale  = 0.5;
+			var moveSpeed = 10;
+			var veiwValue = 8;
+			var amLightValue = 0.7
+			var showOrbit = true;
+
+			//setup listener functions for gui
+			speed.onChange(function(value) {
+				speed_scale = value;
+			});
+			
+			dist.onChange(function(value) {
+				dist_scale = value;
+			});
+
+			movSpeed.onChange(function(value) {
+				moveSpeed = value;
+			});
+
+			veiwer.onChange(function(value) {
+				clear_disc()//clear past planet discriptions
+				veiwValue = value;
+				
+			});
+			
+			lightValue.onChange(function(value) {
+				amLightValue = value;
+				
+			});
+
+			orbitValue.onChange(function(value) {
+				showOrbit = value;
+				//console.log(showOrbit);
+			});
+			
+
+			//init sean and star background
+			var scene = new THREE.Scene();
+			var backgroundLoader = new THREE.TextureLoader();
+			
+			backgroundLoader.load("/textures/2k_stars_milky_way.jpg",function ( texture ) {scene.background = texture},undefined,function ( err ) {console.error( 'An error happened.' );});
+			
+			
+			//init camera
+			var camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 100000 );
+			camera.position.z=2000;
+
+			//init rederer
+			var renderer = new THREE.WebGLRenderer({antilias: true});
+			renderer.setSize( window.innerWidth, window.innerHeight );
+			renderer.setClearColor("#171716")
+			document.body.appendChild( renderer.domElement );
+
+			
+						//create resize event
+			window.addEventListener('resize,', () =>{
+				renderer.setSize( window.innerWidth, window.innerHeight );
+				camera.aspect = window.innerWidth / window.innerHeight;
+
+				camera.updateProjectMatrix();
+			})
+
+			//init and load planets 
+			//sun
+			var sunData = constructPlanetData("sun", 200, "/textures/2k_sun.jpg", 0, 0,0)
+			var sun = loadPlanet(sunData)
+			
+			//earth
+			var earthData = constructPlanetData("earth", 10, "/textures/2k_earth.jpg", 2000, 0.000717,0.15,"P")
+			var earth = loadPlanet(earthData)
+			
+			//mercury
+			var mercuryData = constructPlanetData("mercury", 4, "/textures/2k_mercury.jpg", 940, 0.003,0.003)
+			var mercury = loadPlanet(mercuryData)
+			
+			//venus
+			var venusData = constructPlanetData("venus", 9.5, "/textures/2k_venus.jpg", 1500, 0.0011,-0.0006)
+			var venus = loadPlanet(venusData)
+			
+			//mars
+			var marsData = constructPlanetData("mars", 5.3, "/textures/2k_mars.jpg", 3320, 0.00038,0.12)
+			var mars = loadPlanet(marsData)
+			
+			//jup
+			var jupData = constructPlanetData("jupiter", 109, "/textures/2k_jupiter.jpg", 10800, 0.00006,0.375)
+			var jup = loadPlanet(jupData)
+
+			//sat
+			var satData = constructPlanetData("saturn", 91, "/textures/2k_saturn.jpg", 20000, 0.00002, 0.357)
+			var sat = loadPlanet(satData)
+			
+			//uranus
+			var uranusData = constructPlanetData("uranus", 40, "/textures/2k_uranus.jpg", 30000, 0.000008,-0.214)
+			var uranus = loadPlanet(uranusData)
+
+			//neptune
+			var neptuneData = constructPlanetData("neptune", 38, "/textures/2k_neptune.jpg", 45000, 0.000008,0.22)
+			var neptune = loadPlanet(neptuneData)
+
+			//saturn's rings
+			var ringGeometry = new THREE.RingGeometry( 105, 219, 50 );
+			var ringMaterial = new THREE.MeshBasicMaterial( { color: 0xffff00, side: THREE.DoubleSide } );
+
+			var ringLoader = new THREE.TextureLoader();
+			ringLoader.load("/textures/saturn_s_rings.png",function ( texture ) {ringMaterial.map=texture},undefined,function ( err ) {console.error( 'An error happened.' );});
+			var ring = new THREE.Mesh(ringGeometry, ringMaterial);
+			ring.rotation.x = Math.PI/2+0.4;
+			scene.add(ring)
+			
+			//moon
+			//earth
+			//(myName,myRadius, myTexture, myDist, myOrbitRate, mySpinRate, myTextureType="L", myAngle = 0)
+			var moonData = constructPlanetData("moon", 2, "/textures/2k_moon.jpg", 6, 0.008,0.0055)
+			var moon = loadPlanet(moonData)
+
+			var planets = [mercury, venus, earth, mars, jup, sat, uranus, neptune]
+			var planetDatas = [mercuryData, venusData, earthData, marsData, jupData, satData, uranusData, neptuneData]
+			
+			var orbits = new Array(planetDatas.length);
+			for (var i=0; i<planetDatas.length; i++){
+				orbits[i]=load_orbit(planetDatas[i].dist)
+			}
+		
+
+			clear_disc()
+
+			//add light from sun
+			var light = new THREE.PointLight( 0xFFFFFF, 1, 50000 );
+			light.position.set( 0, 0, 0 );
+			scene.add(light)
+		
+
+			//add ambient lighht
+			var amLight = new THREE.AmbientLight( 0x404040, 0.7 ); // soft white light
+			scene.add( amLight );
+			clock = new THREE.Clock();
+
+			lightValue.onChange(function(value) {
+				amLightValue = value;
+				amLight.intensity =amLightValue;
+				
+			});
+			
+			//camara movment
+			var camAngleSpeed = 0.05;
+			document.onkeydown = checkKey;
+			var camAngle=0;
+
+			function checkKey(e) {
+
+				e = e || window.event;
+				
+				if (e.keyCode == '38') {
+					// up arrow
+					camera.position.z-=moveSpeed;
+				}
+				else if (e.keyCode == '40') {
+					// down arrow
+					camera.position.z+=moveSpeed;
+				}
+				else if (e.keyCode == '37') {
+				// left arrow
+					camera.position.x-=moveSpeed;
+				}
+				else if (e.keyCode == '39') {
+				// right arrow
+					camera.position.x+=moveSpeed;
+				}
+				else if (e.keyCode == '87') {
+				// w key
+					camera.position.y+=moveSpeed;
+				}
+				else if (e.keyCode == '83') {
+				// s key
+					camera.position.y-=moveSpeed;
+				}
+				else if (e.keyCode == '69') {
+				// e key 
+					camera.rotation.x += camAngleSpeed;
+					console.log(camera.rotation.x)
+				}
+				else if (e.keyCode == '68') {
+				// d key
+					camera.rotation.x -= camAngleSpeed;
+					console.log(camera.rotation.x)
+				}
+				else if (e.keyCode == '82') {
+				// r key
+					camera.rotation.x =0;
+				
+				}
+				veiwValue = 8
+				clear_disc()
+
+			}
+			animate_ss()
+			
+					
+			
+			function constructPlanetData(myName,myRadius, myTexture, myDist, myOrbitRate, mySpinRate, myTextureType="L", myAngle = 0){
+					
+					return{
+						name: myName,
+						radius: myRadius,
+						texture: myTexture,
+						dist: myDist,
+						orbitRate: myOrbitRate,
+						spinRate: mySpinRate,
+						textureType: myTextureType,
+						angle: myAngle
+					}
+			}
+			function clear_disc(){
+				//clear planet discription (html block) from screen
+				for (var i=0; i<planetDatas.length; i++){
+					
+					var x = document.getElementById(planetDatas[i].name);
+					x.style.display = "none";
+				}
+			}
+			
+			function loadPlanet(planetData){
+				var geometry = new THREE.SphereGeometry(planetData.radius, 100, 100)
+				//not all planets need to be shiney
+				if (planetData.textureType == "P"){
+					var material = new THREE.MeshPhongMaterial()
+					
+				}else{
+					var material = new THREE.MeshLambertMaterial()
+									
+				}
+				
+				//load texture
+				var loader = new THREE.TextureLoader();
+				loader.load(planetData.texture,function ( texture ) {material.map=texture},undefined,function ( err ) {console.error( 'An error happened.' );});
+				var planet = new THREE.Mesh(geometry, material)
+				
+				scene.add(planet)
+				return planet
+			}
+			function load_orbit(orbit_radius){
+				var geometry = new THREE.TorusGeometry( orbit_radius, 0.1, 16, 100 );
+				var material = new THREE.MeshBasicMaterial( { color: 0xa2a5a8 } );
+				var orbit = new THREE.Mesh( geometry, material );
+				orbit.rotation.x = Math.PI/2
+				scene.add( orbit );
+				return orbit
+			}
+			function place_planet(planet,planetData, delta, speed_scale, dist_scale){
+				//used in solar system veiw
+				//move planet according to passage of time
+				planetData.angle += planetData.orbitRate * delta*speed_scale
+				//update texture, needed to properly load
+				planet.material.needsUpdate = true;
+				
+				//spin planet on its axis
+				planet.rotation.y -= planetData.spinRate* delta*speed_scale;
+				
+				planet.position.x = planetData.dist*dist_scale*Math.cos(planetData.angle);
+				planet.position.z = planetData.dist*dist_scale*Math.sin(planetData.angle);
+				
+				
+			}	
+			function animate_ss() {
+				requestAnimationFrame( animate_ss );
+				
+				sun.material.needsUpdate = true;
+				ring.material.needsUpdate = true;
+				var delta = clock.getDelta();
+				
+				//place all planets in the solar system
+				for (var i=0; i<planets.length; i++){
+					place_planet(planets[i],planetDatas[i],delta,speed_scale, dist_scale)
+				}
+
+				//update orbit rings
+				for (var i=0; i<orbits.length; i++){
+					orbits[i].scale.x=dist_scale
+					orbits[i].scale.y=dist_scale
+					//console.log(orbits[i].radius)
+
+					//hide or show orbits
+					orbits[i].visible=showOrbit;
+				}	
+				//rotate rings around orbit along whith saturn
+				ring.position.x = satData.dist*dist_scale*Math.cos(satData.angle);
+				ring.position.z = satData.dist*dist_scale*Math.sin(satData.angle);
+
+
+				//place moon
+				moonData.angle += moonData.orbitRate * delta*speed_scale
+				//update texture, needed to properly load
+				moon.material.needsUpdate = true;
+				
+				//spin moon on its axis
+				moon.rotation.y -= moonData.spinRate* delta*speed_scale;
+				
+				moon.position.x = earth.position.x + (moonData.dist+10)*Math.cos(moonData.angle);
+				moon.position.z = earth.position.z + (moonData.dist+10)*Math.sin(moonData.angle);
+				
+				console.log(moon.position.x)
+				console.log(moon.position.z)
+				
+				//lock camera to a planet
+				if(veiwValue<8){
+					var offset = 3.1;
+					//set camera offset from planet, lager offset needed for gas giants
+					if(veiwValue == 5){
+						//saturn
+						offset = 230;
+					}else if( offset > 3){
+						offset = 100;
+					}
+					//place camera in front of planet
+					camera.position.x = planets[veiwValue].position.x
+					camera.position.z = planets[veiwValue].position.z + planetDatas[veiwValue].radius + offset;
+					camera.position.y =0;
+					camera.rotation.x =0;
+					//turn on discription
+					var block = document.getElementById(planetDatas[veiwValue].name);
+					block.style.display = "block";
+
+				}
+				renderer.render( scene, camera );
+			}
+
+		</script>
+	</body>
+</html>

@@ -1,0 +1,134 @@
+1
+Compared: 2018 MacBook Air versus 13-inch MacBook Pro and 2017 MacBook Air
+
+Apple's brand new 2018 MacBook Air is the line's second major redesign since Steve Jobs pulled the original out of a manila envelope more than 10 years ago. We compare the new thin-and-light model to its predecessor, and the step-up to the 2017 13-inch MacBook Pro without Touch Bar. 
+
+Comparing the sizes of the 2017 and 2018 MacBook Air
+Comparing the sizes of the 2017 and 2018 MacBook Air
+
+
+Like other Mac portables, MacBook Air is now offered in three different color options: silver, space gray and gold. We selected the gold, a color that matches the gold stainless steel Apple Watch Series 4 and gold iPhone XS, a nice touch for those who like their devices to match.
+
+Design
+
+
+The 2018 MacBook Air looks extremely similar to the MacBook Pro, apart from a couple of key attributes borrowed from the previous Air. The trademark tapered wedge shape is back and continues to contrast against the more boxy slate design of the Pro. The new Air also features a cutout in its lower case for grabbing and lifting the display open, a notch that looks identical to the one on the previous MacBook Air. 
+
+
+
+
+One standout feature on the new 2018 MacBook Air is Touch ID. That arrives thanks to the T2 Chip, which not only handles biometric authentication, but also SSD encryption, Hey Siri support and more. Neither of the other MacBooks that we're comparing have Touch ID, which is now limited to the new MacBook Air and Touch Bar MacBook Pros. 
+
+Other than that, everything else about the new MacBook Air is akin to MacBook Pro. From the display to the keyboard, the speaker layout, the large force touch trackpad, the lack of a backlit Apple logo and metal hinge design, the designs of the two laptops are eerily similar. 
+
+MacBook Air Trackpad comparison
+MacBook Air Trackpad comparison
+
+
+Comparing the size of the new MacBook Air to the previous model, it's easy to see that new version is quite a bit smaller, both in length and width. As far as the weight, the new Air is a quarter of a pound lighter at 2.75 pounds. 
+
+At its thickest point, the new MacBook Air is around the same thickness as the previous MacBook Air would be if its display was removed. The Air extends out a little bit longer than last year's model, so its thinnest edge is slightly thinner.
+
+Comparing the wedge and ports on the MacBook Air
+Comparing the wedge and ports on the MacBook Air
+
+
+The new Air is basically identical to the MacBook Pro when stacked one atop the other. From the side, the wedge shape becomes apparent and makes Air appear thinner than it really is; The Air is actually thicker than the Pro by .02 inches.
+
+One thing we noticed while using the MacBook Pro since its last redesign in 2016 is that its leading edge cuts into our wrists while typing. That does not happen with the new Air because the wedge design tapers down to almost nothing. Further, the keyboard slopes downward toward the user instead of maintaining a flat surface like the Pro.
+
+MacBook Air is friendlier to the wrist when typing versus the MacBook Pro
+MacBook Air is friendlier to the wrist when typing versus the MacBook Pro
+
+
+Apple's push to streamline Mac I/O ports continues with the new Air. The older MacBook Air has an abundance of ports, including an SD card slot, a Thunderbolt 2 port, two USB-A ports, a headphone jack and of course, the MagSafe connector, while the latest iteration is identical to the Pro in that it nets two Thunderbolt 3 ports and a headphone jack.
+
+Performance
+
+
+In a Geekbench 4 evaluation, the 2018 MacBook Air with 1.6GHz Intel Core i5 CPU with 4MB L3 cache scored turned in scores of 4,246 and 7,788 in single- and multi-core testing, respectively. The 2017 13-inch MacBook Air scored 3,312 in single-core and 5,971 in multi-core, while the 2017 13-inch MacBook Pro scored 4,524 in single-core and 9,554 in multi-core.
+
+Comparing MacBook Air Geekbench CPU results
+Comparing MacBook Air Geekbench CPU results
+
+
+Based on those results, the new Air is close to the Pro in terms of single-core performance, and basically right smack in the middle of both devices in terms of multi-core performance. 
+
+One thing to think about is that the new MacBook Air's processor is Intel's 8th gen CPU, so it should be faster at transcoding HEVC files despite scoring slower in benchmarks. 
+
+Looking at the Air's Intel UHD 617 Graphics with Geekbench 4's Metal test, the machine scored 21,865 points compared to 17,970 on the previous Air and 30,961 on the MacBook Pro. Interestingly, there wasn't that big of a difference between the MacBook Airs, but the Pro expectedly saw around 40 percent better graphics scores. 
+
+Metal benchmarking results for the MacBook Air
+Metal benchmarking results for the MacBook Air
+
+
+Batteries and power adapters
+
+
+The 2018 MacBook Air comes with a 50.3Wh battery compared to 54Wh on the previous Air and 54.5Wh on the 13" MacBook Pro. Apple claims the Air's battery is good for up to 12 hours of wireless web browsing, up to 13 hours of iTunes movie playback or up to 30 days of standby time.
+
+Both the 2017 MacBook Air and MacBook Pro run 15-watt dual-core processors, while the new MacBook Air packs a 7W dual-core processor, so the new Air should be more battery efficient than its stablemates. 
+
+The new MacBook Air comes with a 30W USB-C power adapter, which is slightly updated from the old 29W adapter. It also comes with a USB-C to USB-C charging cable, so it looks like MagSafe is quickly becoming a footnote in Mac history.
+
+The previous MacBook Air came with a 45W MagSafe power adapter while the 13" MacBook Pro comes with a 61W USB-C power adapter, more than double the wattage of the adapter that comes with the new MacBook Air.
+
+Displays
+
+
+The biggest complaint about the previous generation MacBook Air was its display. The resolution was a very low 1,440-by-900 pixels. It featured an LED-backlit TN panel, which is known for having some pretty terrible viewing angles. Shifting the display to the side, the colors and contrast start to get really washed out.
+
+
+
+
+
+For 2018, MacBook Air gets a 13.3-inch Retina display with a 2,560-by-1,600 pixel resolution.
+
+Even though the 2018 MacBook Air has the same Retina resolution as the MacBook Pro, it's actually lacking P3 wide-color gamut support. We didn't think that we would be able to notice a difference, but just by having them side by side, the Pro boasts more contrast and richer colors.
+
+2018 MacBook Air vs 2017 MacBook Pro Color Reproduction Comparison
+2018 MacBook Air vs 2017 MacBook Pro Color Reproduction Comparison
+
+
+That's not the only difference we noticed. Laptop Mag found the new MacBook Air's screen brightness is capped at 234 nits, while the 13-inch MacBook Pro averages 458 nits. Not only that, but the previous generation MacBook Air measured in at 336 nits of brightness. 
+
+If you're a casual user, you'll most likely be very happy with the Retina display in the new MacBook Air, but if you're somebody that often uses their laptop outside, or you do color grading or photo editing, we would suggest going with the MacBook Pro. 
+
+Keyboards and trackpads
+
+
+The new MacBook Air uses Apple's third-generation butterfly switch keyboard, similar to the one that comes on the new 2018 MacBook Pros. The first and second generation butterfly keyboards experienced issues with sticky or dead keys because dust and debris were able to find their way into the mechanism and block the key contacts.
+
+This new keyboard features a silicone barrier which helps prevent debris from making its way under the keyboard. Because of the silicone, the keyboard has a different kind of feel to it, softer and less "clicky," which we personally prefer, but some may not like it.
+
+The previous MacBook Air featured the traditional chiclet-style keys, which we like, but to be honest, the new keyboard is definitely better. You also get individually backlit keys on the new Air, compared to global backlighting on the previous model.
+
+The 2018 MacBook Air gets a Force Touch trackpad like the 13-inch Pro. Once you've experienced this trackpad, it's almost impossible to go back to diving board trackpad that came on the previous MacBook Air. 
+
+2017 MacBook Air vs 2018 MacBook Air Trackpad size
+2017 MacBook Air vs 2018 MacBook Air Trackpad size
+
+
+The new Air's trackpad is quite a bit larger than the 2017 model's trackpad, but is smaller than the trackpad on the 2017 MacBook Pro by a decent amount, even though the exterior dimensions are almost identical.
+
+Audio
+
+
+The new MacBook Air's speakers look identical to the ones on the 13-inch MacBook Pro, as compared to the speakers on the previous MacBook Air which are actually hidden beneath the keyboard.
+
+MacBook Air speakers, compared
+MacBook Air speakers, compared
+
+
+We ran a quick sound comparison and found that the new MacBook Air sounds noticeably louder and more clear than the previous model, especially in terms of bass, which was surprisingly punchy and deep.
+
+However, the 13-inch MacBook Pros speakers blew the new MacBook Air out of the water. They were noticeably louder and the highs were much more crisp and bright as well. Bass seemed to sound equally good on both machines, but the new MacBook Air's overall quieter mids and highs accentuated the bass.
+
+Pricing and deals
+
+
+Looking at pricing, Apple is still selling the previous MacBook Air for $999. The new MacBook Air has an $1,199 MSRP, while both the 2017 13" MacBook Pro and 2017 12" MacBook retail for $1,299. However, you can get the 2018 MacBook Air on sale for $1,149 or the 2017 13" MacBook Pro without Touch Bar for $1,199 from Apple authorized resellers, putting both systems within $50 of one another.
+
+The greatest savings, however, comes with the 2018 13-inch MacBook Pro with Touch Bar, which is currently $150 off with coupon code APINSIDER when used with this shopping link at Adorama. Adorama also will not collect sales tax on orders shipped outside New York and New Jersey, further adding to savings for many shoppers.
+
+To view the latest deals leading up to Black Friday, as well as up-to-date product availability, be sure to visit our Mac Price Guides.

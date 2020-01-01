@@ -1,0 +1,107 @@
+1
+OnePlus 6T vs. iPhone XR: Which Affordable Flagship Wins?
+flagship smartphones are getting more expensive every year, with Apple's $1,099 iPhone XS Max and Samsung's $999 Galaxy Note 9 leading the pack.
+
+
+But you don't need to shell out $1,000 for flagship features. Apple's own iPhone XR offers best-in-class performance, lengthy battery life and a solid camera for $749, and the OnePlus 6T sports a stunning screen and cutting-edge in-display fingerprint sensor for $549. So which affordable flagship wins? It's a close race, but the XR takes the cake.
+
+
+Design
+If you're tired of giant, shiny, nondescript black smartphones that are indistinguishable from one another, the OnePlus 6T isn't the device for you. The phone comes in two shades of black — a matte version and a shiny version —  and both are made entirely of glass. The 6T looks perfectly nice, but there's nothing particularly eye-catching about it.
+
+
+The iPhone XR is also coated in glass but comes in six stunning shades: black, white, blue, yellow, coral and red. The lemony yellow is my personal favorite — it's as fun as the iPhone 5C's candy-coated colors were, but feels more high end. Each shade has a matching aluminum band around the frame, which is also a nice touch.
+
+
+The XR is noticeably heavier than the 6T at 6.8 ounces to the 6T's 6.52 ounces, though the 6.2-inch-long 6T is taller than the 5.9-inch iPhone. Both phones are sleek and thin — 0.3 inches for the XR versus 0.32 inches for the 6T. But when it comes to style, the XR wins hands down.
+
+Winner: iPhone XR
+
+Display
+Both the 6T and XR have nearly bezel-free displays with notches, but there's no mistaking the two.
+
+
+The lowest-priced iPhone's screen is a sizable 6.1 inches, but Apple cut costs by providing an LCD panel instead of offering a pricier OLED display. The OnePlus 6T's 6.4-inch AMOLED panel is absolutely brilliant by comparison — its massive 2340 x 1080 slate is the clear winner when placed next to the iPhone's 1792 x 828 screen.
+
+
+Then there's the notch. The iPhone XR has a shallow but wide cutout for its front-facing camera, while the 6T's dewdrop-shaped notch is so small as to be almost completely unobtrusive.
+
+
+The XR wins points for brightness, as all LCD panels do. The panel reached 589 nits on our lab test, while the 6T's AMOLED reached 405 nits.
+
+Overall, the 6T's richer, more vivid, larger display is the winner, especially at its price.
+
+Winner: OnePlus 6T
+
+Camera
+The OnePlus 6T has a dual-lens camera with 20-MP and 16-MP shooters, but the iPhone XR's lone 12-MP lens still wins in our comparison tests.
+
+
+OnePlus improved the 6T's low-light photos and portraits with software tweaks, so we compared both modes to the iPhone XR. The iPhone doesn't have a Nightscape mode that's comparable to the 6T's, and its Portrait Mode only works on humans. And yet, the XR still comes out ahead.
+
+
+In a challenging low-light shot of a Halloween display, I turned on the 6T's Night mode to capture both the colorful display and the brownstone behind it. The 6T turned out a shot that was brighter overall than the iPhone XR's, but the OnePlus phone also struggled with the lamplight directly in front of the inflatable monster.
+
+
+The XR retained the detail in the shot, even though it was darker than the 6T's, while turning the glow from the lamp into an artistic lens flare. The 6T's shot was overexposed, turning the glow from the lamp into the focal point of the photo.
+
+In Portrait Mode, the OnePlus 6T set me farther back from the camera than the iPhone XR, despite being taken from the exact same spot. The XR also captured a warmer, more color-accurate photo. The hue of my hair was more true-to-life in the iPhone's portrait when compared to the 6T's.
+
+
+The same was true of the colors in selfies, which were dark and muted in the 6T's image, while being more vibrant and true-to-life in the iPhone's.
+
+
+Overall, the iPhone XR has a better camera, despite lacking a second lens.
+
+Winner: iPhone XR
+
+Performance
+The OnePlus 6T sports a Snapdragon 845 processor and 6GB of RAM (or 8GB if you splurge on the $579 model), so it can easily compete against more expensive Android flagships. On the Geekbench 4 test of overall system performance, the 6T notched 8,972, sailing past the Google Pixel 3 XL with its score of 7,684, and even topping the Galaxy Note 9's 8,876 peak.
+
+
+But the iPhone XR's A12 Bionic chip is an unbeatable beast. The XR scored 11,312 on Geekbench 4, just behind the XS (11,420) and XS Max (11,515). Apple's custom chips are unmatched.
+
+
+Even in a real-world test, transcoding a 2-minute, 4K video file into 1080 in Adobe Premiere, the XR crushes the competition. Apple's newest iPhone completed the task in just 40 seconds, while the 6T finally finished at 3 minutes and 45 seconds.
+
+Winner: iPhone XR
+
+Battery Life
+The iPhone XR isn't just a performance powerhouse — it also offers great battery life. The phone lasted 11 hours and 26 minutes on the Tom's Guide Battery Test of continuous web surfing over T-Mobile's LTE network. The smartphone average is 9:48, so the iPhone XR easily landed on our list of the longest-lasting smartphones.
+
+The OnePlus 6T's battery life isn't too shabby, either, clocking in at 10:23. But the iPhone XR can last more than an hour longer, which is a big deal when you're on the go without a charger.
+
+MORE: iPhone XR Battery Life: The Results Are In
+
+The 6T has one advantage: Its Dash Charge technology enables you to juice up the phone over a USB Type-C cable from 0 to 60 percent in just 30 minutes. The iPhone XR doesn't offer USB-C fast charging out of the box — you'll have to shell out an additional $50 for a USB-C fast-charging brick and a USB-C-to-Lightning adapter to get from 0 to 50 percent in a half hour.
+
+A negative for the OnePlus: The 6T doesn't support wireless charging, while the iPhone XR does.
+
+Winner: iPhone XR
+
+Software and Special Features
+The iPhone XR has all the features iPhone users love and expect: The latest version of iOS 12, complete with support for dual SIM cards, Group FaceTime, new emojis and real-time depth-of-field editing in Portrait Mode.
+
+
+But the OnePlus 6T's lightning fast in-display fingerprint sensor feels like magic, and it's the first of its kind in the U.S. The iPhone XR offers Face ID, but if you prefer a fingerprint sensor to face scanning, the 6T is the way to go.
+
+
+OnePlus also offers OxygenOS, which is its own elegant take on Android Pie, with gesture-based navigation similar to the iPhone's and a Smart Boost app-launching feature that makes smartphone games load times speedy and seamless. (I tested this with PUBG Mobile and found it worked as promised, compared to an older OnePlus 6 without Smart Boost.)
+
+MORE: Forget the iPhone XS: iPhone Rumors Are Already Here
+
+If you're committed to Apple's ecosystem, the iPhone XR is a sensible pick. But the OnePlus 6 could woo iPhone users with its fingerprint sensor and sophisticated software.
+
+Winner: OnePlus 6T
+
+Value and Availability
+You won't find a better Android phone for your money than the $549 OnePlus 6T, which costs $200 less than the iPhone XR and offers features Apple's $749 iPhone doesn't have, such as a dual-lens camera and an in-display fingerprint sensor (which some people prefer).
+
+The 6T also benefits from OnePlus' partnership with T-Mobile, which gives buyers the chance to snag a OnePlus device in the store for once, and even offers a financing option that wasn't available for past OnePlus devices. You can also buy a 6T unlocked online to use on Verizon or AT&T.
+
+Winner: OnePlus 6T
+
+
+The iPhone XR is Apple's most affordable new iPhone, and it's just as capable as Apple's pricier models in most areas. The OnePlus 6T undercuts the XR on price, but its camera isn't as good, its battery life isn't as lengthy and its processor isn't as powerful as what the XR offers.
+
+If you don't want to spend $749, the 6T is a solid option, especially for buyers who prefer Android and want a fingerprint sensor. For everyone else, the iPhone XR ekes out the win.
